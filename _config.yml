@@ -1,5 +1,7 @@
 // Place to configure the website
 
+title: Jack Stuart
+description: I'm a computer science student at Lawrence University.
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
